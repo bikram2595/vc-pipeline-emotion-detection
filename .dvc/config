@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:/Users/ADMIN/Documents/dvc_storage_pipeline
+    url = C:/Users/ADMIN/Documents/dvc_storage_2
